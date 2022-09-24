@@ -1,0 +1,25 @@
+{
+  "name": "backend-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":  "nodemon index.js"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Most-Umme-Salma/Backend-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Most-Umme-Salma/Backend-exercise/issues"
+  },
+  "homepage": "https://github.com/Most-Umme-Salma/Backend-exercise#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.8.0"
+  }
+}
